@@ -1,34 +1,87 @@
 {
 	"products" : [
 		{
-			"name" : "Awesome T-shirt",
-			"price" : "35.99",
+			"name" : "Bêtise",
+			"price" : "1",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" }
+				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "This is a very awesome grey T-shirt"
+			"image" : "images/betise.png",
+			"description" : "T-shirt med teksten Bêtise på som betyder tåbelighed på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
 		},
 		{
-			"name" : "Cool T-shirt",
-			"price" : "15.99",
+			"name" : "Bonheur",
+			"price" : "349.99",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" },
-				{ "Color" : "Blue,Red" },
-			    { "OneOfAKind" : true }
+				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/2/24/Blue_Tshirt.jpg",
-			"description" : "This is a really cool blue T-shirt",
-			"soldOut" : true
+			"image" : "images/Bonheur.png",
+			"description" : "T-shirt med teksten Bonheur på som betyder  lykke på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
 		},
 		{
-			"name" : "Fun T-shirt",
-			"price" : "15.99",
+			"name" : "Le Criminel",
+			"price" : "349.99",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" }
+				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "This is another fun grey T-shirt"
+			"image" : "images/Criminel.png",
+			"description" : "T-shirt med teksten Le Criminel på som betyder  den kriminelle på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+		},
+		{
+			"name" : "Dêlure",
+			"price" : "349.99",
+			"options" : [
+				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+			],
+			"image" : "images/Delure.png",
+			"description" : "T-shirt med teksten Dêlure på som betyder  næsvis på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+		},
+		{
+			"name" : "Fluze",
+			"price" : "349.99",
+			"options" : [
+				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+			],
+			"image" : "images/Fluze.png",
+			"description" : "T-shirt med teksten Fluze på som betyder  penge på fransk slang. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+		},
+
+		{
+			"name": "Formidable",
+			"price": "349.99",
+			"options": [
+				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+			],
+			"image": "images/Formidable.png",
+			"description": "T-shirt med teksten Formidable på som betyder  formidabelt på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+		},
+		{
+			"name" : "Luxe",
+			"price" : "349.99",
+			"options" : [
+				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+			],
+			"image" : "images/Luxe.png",
+			"description" : "T-shirt med teksten luxe på som betyder  luksus på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+		},	{
+			"name" : "Mon frére",
+			"price" : "349.99",
+			"options" : [
+				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+			],
+			"image" : "images/Monfrere.png",
+			"description" : "T-shirt med teksten Mon frére på som betyder  min bror på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+		},
+		{
+			"name": "Puisant",
+			"price": "349.99",
+			"options": [
+				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+			],
+			"image": "images/Puisant.png",
+			"description": "T-shirt med teksten Puissant på som betyder  kraftfuld på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model.."
 		}
 	]
 }
+
+

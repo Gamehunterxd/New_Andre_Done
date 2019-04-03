@@ -10,8 +10,8 @@
     "main": "index.html",
     "license": "MIT",
     "dependencies": {
-        "jquery": "latest",
+        "jquery": "2.1.4",
         "skeleton": "~2.0.4",
-        "fontawesome": "latest"
+        "fontawesome": "4.4.0"
     }
 }
