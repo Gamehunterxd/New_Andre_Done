@@ -1,85 +1,86 @@
 {
 	"products" : [
 		{
-			"name" : "Bêtise",
-			"price" : "300.00",
+			"name" : "BOB'S BURGER",
+			"price" : "90.00",
 			"options" : [
-				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+				{ "Størrelse" : "100gr, 200gr, 300gr" }
 			],
-			"image" : "images/betise.png",
-			"description" : "T-shirt med teksten Bêtise på som betyder tåbelighed på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+			"image" : "images/b1.jpg",
+			"description" : "Dejlig burger med spidskålssalat, syltede løg og barbecuedressing."
 		},
 		{
-			"name" : "Bonheur",
-			"price" : "300.00",
+			"name" : "ER DU DUM EN HAIWAN MED OST",
+			"price" : "90.00",
 			"options" : [
-				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+				{ "Størrelse" : "100gr, 200gr, 300gr" }
 			],
-			"image" : "images/Bonheur.png",
-			"description" : "T-shirt med teksten Bonheur på som betyder  lykke på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+			"image" : "images/b2.jpg",
+			"description" : "En dejlig burger hvor bøf og ost får modspil af den friske, syrligsøde rabarberkompot.."
 		},
 		{
-			"name" : "Le Criminel",
-			"price" : "300.00",
+			"name" : "ER DU DUM EN LAKS",
+			"price" : "109.00",
 			"options" : [
-				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+				{ "Størrelse" : "100gr, 200gr, 300gr" }
 			],
-			"image" : "images/Criminel.png",
-			"description" : "T-shirt med teksten Le Criminel på som betyder  den kriminelle på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+			"image" : "images/b3.jpg",
+			"description" : "Hytteost, naturel eller salsa dressing."
 		},
 		{
-			"name" : "Dêlure",
-			"price" : "300.00",
+			"name" : "ER DU DUM EN LILLE BURGER",
+			"price" : "40.00",
 			"options" : [
-				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+				{ "Størrelse" : "100gr, 200gr, 300gr" }
 			],
-			"image" : "images/Delure.png",
-			"description" : "T-shirt med teksten Dêlure på som betyder  næsvis på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+			"image" : "images/b4.jpg",
+			"description" : "Lækre små miniburgere - også kaldet sliders. De passer lige til en barnehånd "
 		},
 		{
-			"name" : "Fluze",
-			"price" : "300.00",
+			"name" : "ER DU DUM BURGEREN",
+			"price" : "90.00",
 			"options" : [
-				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+				{ "Størrelse" : "100gr, 200gr, 300gr" }
 			],
-			"image" : "images/Fluze.png",
-			"description" : "T-shirt med teksten Fluze på som betyder  penge på fransk slang. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+			"image" : "images/b5.jpg",
+			"description" : "Når posen skal rystes rigtig godt og Mortens aften eller selve julemenuen skal have et nyt look... Eller hvis du har lyst til en lækker streetfood burger."
 		},
 
 		{
-			"name": "Formidable",
-			"price": "300.00",
-			"options": [
-				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+			"name" : "ER DU DUM EN RAMSLØG",
+			"price" : "90.00",
+			"options" : [
+				{ "Størrelse" : "100gr, 200gr, 300gr" }
 			],
-			"image": "images/Formidable.png",
-			"description": "T-shirt med teksten Formidable på som betyder  formidabelt på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+			"image" : "images/b6.jpg",
+			"description" : "Ramsløg vokser i mange danske bøgeskove og kan kendes på den meget kraftige løglugt."
 		},
 		{
-			"name" : "Luxe",
-			"price" : "300.00",
+			"name" : "ER DU DUM EN VEGETAR",
+			"price" : "85.00",
 			"options" : [
-				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+				{ "Størrelse" : "100gr, 200gr, 300gr" }
 			],
-			"image" : "images/Luxe.png",
-			"description" : "T-shirt med teksten luxe på som betyder  luksus på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
-		},	{
-			"name" : "Mon frére",
-			"price" : "300.00",
-			"options" : [
-				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
-			],
-			"image" : "images/Monfrere.png",
-			"description" : "T-shirt med teksten Mon frére på som betyder  min bror på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
+			"image" : "images/b7.jpg",
+			"description" : "Dejlig burger til dem der ikke magter livet."
 		},
 		{
-			"name": "Puisant",
-			"price": "300.00",
-			"options": [
-				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
+			"name" : "ER DU DUM EN SPORTY BURGER",
+			"price" : "109.00",
+			"options" : [
+				{ "Størrelse" : "100gr, 200gr, 300gr" }
 			],
-			"image": "images/Puisant.png",
-			"description": "T-shirt med teksten Puissant på som betyder  kraftfuld på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model.."
+			"image" : "images/b8.jpg",
+			"description" : "Her er en lækker forårsburger som indeholder mange af de lækre råvarer maj har at byde på. Og så er den fuld af protein til de lange løbeture."
+		},
+		{
+			"name" : "ER DU DUM EN FISK",
+			"price" : "109.00",
+			"options" : [
+				{ "Størrelse" : "100gr, 200gr, 300gr" }
+			],
+			"image" : "images/b9.jpg",
+			"description" : "Prøv en anderledes burger med citronkrydret langefilet, mild broccolicreme og sprøde cashewnødder."
 		}
 	]
 }
