@@ -11,7 +11,7 @@
     "license": "MIT",
     "dependencies": {
         "jquery": "2.1.4",
-        "skeleton": "~2.0.4",
+        "skeleton": "2.0.4",
         "fontawesome": "4.4.0"
     }
 }
