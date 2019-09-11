@@ -6,21 +6,31 @@ body, html {
     height: 100%;
 }
 
-/* Centered text */
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
+
+
+ .parallax {
+     /* The image used */
+     background-image: url("../images/burgerlogo.png");
+
+     /* Set a specific height */
+     height: 900px;
+
+     /* Create the parallax scrolling effect */
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+
+ }
+
+
 
 /* The hero image */
 .hero-image {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/burger0.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/burger0.jpg");
 
     /* Set a specific height */
-    height: 50%;
+    height: 60%;
 
     /* Position and center the image to scale nicely on all screens */
     background-position: center;
