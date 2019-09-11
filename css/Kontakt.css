@@ -12,25 +12,22 @@ body, html {
 
 
 
-.logo{
-    width: 20%;
-    height: 20%;
-    display: block;
-    margin: 2%;
-}
+
 
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
-    max-width: 75%;
-    height: auto;
+    width: 150px;
     margin-top: 5%;
 
 }
 
+.logo{
+    width: 12%;
+    margin-left: 10%;
 
+}
 #navbar {
     overflow: hidden;
     background-color: white;
@@ -61,13 +58,14 @@ article{
 hr {
     display: block;
     margin: 0.5em auto 0.5em auto;
-    border: inset red 2px;
+    border: inset darkorange 2px;
+    width: 25%;
 }
 
 .bundlinje {
     display: block;
     margin: 15% auto 0 auto;
-    border: inset black 2px;
+    border: inset darkorange 2px;
 }
 .bundlinjetekst{
     font-size: 20px;
@@ -76,11 +74,13 @@ hr {
 }
 .tekst {
     font-size: 50px;
-    font-family: "Helvetica Light";
+    font-family: "Helvetica";
     text-align: center;
+    margin-top: 1%;
+
 }
 .tekst1 {
-    font-size: 20px;
+    font-size: 30px;
     font-family: "Helvetica";
     text-align: center;
     color: #888888;
