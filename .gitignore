@@ -4,3 +4,4 @@ release/*
 release.zip
 .idea/
 dev/*
+bower_components/*
