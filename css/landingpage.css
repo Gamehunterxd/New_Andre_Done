@@ -179,20 +179,21 @@ hr {
     display: flex;
     justify-content: center;
     text-align: center;
-    background-color: #999999;
     font-size: 20px;
     font-family: "Helvetica Light";
+    color: gray;
 }
 .tekst {
      font-size: 25px;
-     font-family: "Helvetica Light";
+     font-family: "Helvetica";
      text-align: center;
+    color: black;
  }
 .tekst1 {
     font-size: 20px;
     font-family: "Helvetica";
     text-align: center;
-    color: #888888;
+    color: black;
 }
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 500px) {
