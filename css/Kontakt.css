@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+
+
+
+
+
+.logo{
+    width: 20%;
+    height: 20%;
+    display: block;
+    margin: 2%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    max-width: 75%;
+    height: auto;
+    margin-top: 5%;
+
+}
+
+
+#navbar {
+    overflow: hidden;
+    background-color: white;
+    font-family: "Helvetica";
+    display: flex;
+    justify-content: center;
+
+}
+
+
+#navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+
+}
+
+article{
+    display: flex;
+    justify-content: center;
+    margin: 5% 0 0 0;
+}
+
+
+hr {
+    display: block;
+    margin: 0.5em auto 0.5em auto;
+    border: inset red 2px;
+}
+
+.bundlinje {
+    display: block;
+    margin: 15% auto 0 auto;
+    border: inset black 2px;
+}
+.bundlinjetekst{
+    font-size: 20px;
+    font-family: "Helvetica Light";
+    text-align: center;
+}
+.tekst {
+    font-size: 50px;
+    font-family: "Helvetica Light";
+    text-align: center;
+}
+.tekst1 {
+    font-size: 20px;
+    font-family: "Helvetica";
+    text-align: center;
+    color: #888888;
+}
+
+@media screen and (max-width: 500px) {
+    .column {
+        width: 100%;
+    }
+}
+
+
+@media screen and (min-width: 500px) {
+    .center {
+        margin-top: 1%;
+        max-width: 25%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .responsive {
+        width: 100%;
+    }
+}
+

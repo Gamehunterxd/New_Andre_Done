@@ -2,9 +2,80 @@
     box-sizing: border-box;
 }
 
-body {
-    margin: 0;
+body, html {
+    height: 100%;
 }
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* The hero image */
+.hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/city.gif");
+
+    /* Set a specific height */
+    height: 50%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: Helvetica;
+}
+.logo{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+}
+.button {
+    background-color: darkred;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+.button1 {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+.button:hover {opacity: 1}
+
+.button1:hover {opacity: 1}
 
 .center {
     display: block;
@@ -17,6 +88,14 @@ body {
 
 }
 
+.responsive{
+    width: 50%;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .column {
     float: left;
     width: 33.33%;
@@ -25,7 +104,6 @@ body {
 
 /* Clearfix (clear floats) */
 .row::after {
-    content: "";
     clear: both;
     display: table;
 }
@@ -33,6 +111,10 @@ body {
 #navbar {
     overflow: hidden;
     background-color: white;
+    font-family: "Helvetica";
+    display: flex;
+    justify-content: center;
+
 }
 
 /* Navbar links */
@@ -84,7 +166,25 @@ hr {
     border-color: red;
     width: 50%;
 }
+.bundlinje {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+    border-color: black;
 
+}
+.bundlinjetekst{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #999999;
+    font-size: 20px;
+    font-family: "Helvetica Light";
+}
 .tekst {
      font-size: 50px;
      font-family: "Helvetica Light";
@@ -110,3 +210,10 @@ hr {
         max-width: 25%;
     }
 }
+
+@media screen and (max-width: 500px) {
+    .responsive {
+       width: 100%;
+    }
+}
+

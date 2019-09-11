@@ -2,7 +2,7 @@
 	"products" : [
 		{
 			"name" : "Bêtise",
-			"price" : "1",
+			"price" : "300.00",
 			"options" : [
 				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
 			],
@@ -11,7 +11,7 @@
 		},
 		{
 			"name" : "Bonheur",
-			"price" : "349.99",
+			"price" : "300.00",
 			"options" : [
 				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
 			],
@@ -20,7 +20,7 @@
 		},
 		{
 			"name" : "Le Criminel",
-			"price" : "349.99",
+			"price" : "300.00",
 			"options" : [
 				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
 			],
@@ -29,7 +29,7 @@
 		},
 		{
 			"name" : "Dêlure",
-			"price" : "349.99",
+			"price" : "300.00",
 			"options" : [
 				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
 			],
@@ -38,7 +38,7 @@
 		},
 		{
 			"name" : "Fluze",
-			"price" : "349.99",
+			"price" : "300.00",
 			"options" : [
 				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
 			],
@@ -48,7 +48,7 @@
 
 		{
 			"name": "Formidable",
-			"price": "349.99",
+			"price": "300.00",
 			"options": [
 				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
 			],
@@ -57,7 +57,7 @@
 		},
 		{
 			"name" : "Luxe",
-			"price" : "349.99",
+			"price" : "300.00",
 			"options" : [
 				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
 			],
@@ -65,7 +65,7 @@
 			"description" : "T-shirt med teksten luxe på som betyder  luksus på fransk. Kortærmet interlock T-shirt i blød antipillingkvalitet. Rund hals og smal halsrib. Tætsiddende model."
 		},	{
 			"name" : "Mon frére",
-			"price" : "349.99",
+			"price" : "300.00",
 			"options" : [
 				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
 			],
@@ -74,7 +74,7 @@
 		},
 		{
 			"name": "Puisant",
-			"price": "349.99",
+			"price": "300.00",
 			"options": [
 				{ "Størrelse" : "S,M,L,XL,XXL,XXXL" }
 			],
