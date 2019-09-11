@@ -207,7 +207,9 @@ a.simpleCart_empty:hover {
 .simpleCart_checkout {
     margin: 12px 0px 0px 0px;
 }
-
+.center{
+    width: 20%;
+}
 
 /* Utility */
 
