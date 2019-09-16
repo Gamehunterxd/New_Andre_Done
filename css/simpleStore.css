@@ -72,6 +72,7 @@ a.hover {
 
 .item_thumb, .detail_thumb {
     height: 150px;
+    width: 250px;
     display: block;
     margin: 0 auto;
     padding-bottom: 10px;
